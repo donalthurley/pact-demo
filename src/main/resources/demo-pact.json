@@ -11,7 +11,7 @@
       "providerState": "ready state",
       "request": {
         "method": "GET",
-        "path": "/oac/getAsset",
+        "path": "/demo/getAsset",
         "headers": {
           "Content-Type": "application/json"
         }
